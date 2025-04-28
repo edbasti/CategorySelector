@@ -24,8 +24,7 @@ npm install -g json-server
 json-server --watch db.json --port 3000
 
 
-### 1. Start Frontend (React)
+2. Start Frontend (React)
 
-```bash
 npm install
 npm start
