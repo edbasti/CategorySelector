@@ -19,10 +19,10 @@ This project is a dynamic category and subcategory selector built using React an
 
 ### 1. Start Backend (json-server)
 
-npm install -g json-server
+npm install -g json-server<br>
 json-server --watch db.json --port 3000
 
 ### 2. Start Backend (json-server)
 
-npm install
+npm install<br>
 npm start
